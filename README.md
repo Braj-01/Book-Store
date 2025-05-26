@@ -53,7 +53,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/Braj-01/Book-Store.git
-cd the-book-nook
+cd Book-Store
 npm install
 npm run dev
 ```
