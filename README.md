@@ -40,9 +40,12 @@
 
 > Replace the image links below with actual URLs or GitHub-uploaded image links.
 
-![Home Page](https://your-image-link.com/home.png)
-![Testimonials](https://your-image-link.com/carousel.png)
-![Footer](https://your-image-link.com/categories.png)
+![Home Page](https://github.com/Braj-01/Book-Store/blob/main/src/assets/Screenshot%202025-05-26%20073728.png
+)
+![Testimonials](https://github.com/Braj-01/Book-Store/blob/main/src/assets/Screenshot%202025-05-26%20073825.png
+)
+![Footer](https://github.com/Braj-01/Book-Store/blob/main/src/assets/Screenshot%202025-05-26%20073851.png
+)
 
 ---
 
