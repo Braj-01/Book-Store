@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live Site]([https://your-live-site-link.com](https://the-book-nook-store.netlify.app/))
+👉 [View Live Site](https://the-book-nook-store.netlify.app/)
 
 ---
 
